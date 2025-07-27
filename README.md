@@ -1,5 +1,5 @@
-# MQTT Subscribe Service
+# MQTT Subscription Service
 
-MQTT Subscribe Service is a service that subscribes to MQTT topics and processes the messages received.
+MQTT Subscription Service is a service that subscribes to MQTT topics and processes the messages received.
 
 ## Features

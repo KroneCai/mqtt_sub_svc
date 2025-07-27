@@ -1,0 +1,360 @@
+2025-07-26 10:32:51.603 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 14:06:43.609 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 14:09:04.248 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 14:09:04.297 | INFO     | mqtt.mqtt:on_connect:53 - MQTT broker connected.
+2025-07-26 14:09:04.299 | INFO     | mqtt.mqtt:on_connect:56 - Subscribed to topic: /nengduojie/#
+2025-07-26 14:11:00.188 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 14:11:00.231 | INFO     | mqtt.mqtt:on_connect:53 - MQTT broker connected.
+2025-07-26 14:11:00.231 | INFO     | mqtt.mqtt:on_connect:56 - Subscribed to topic: /nengduojie/#
+2025-07-26 14:12:46.972 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 14:12:47.024 | INFO     | mqtt.mqtt:on_connect:53 - MQTT broker connected.
+2025-07-26 14:12:47.025 | INFO     | mqtt.mqtt:on_connect:56 - Subscribed to topic: /nengduojie/#
+2025-07-26 14:15:23.867 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 14:15:23.906 | INFO     | mqtt.mqtt:on_connect:53 - MQTT broker connected.
+2025-07-26 14:15:23.907 | INFO     | mqtt.mqtt:on_connect:56 - Subscribed to topic: /nengduojie/#
+2025-07-26 14:16:18.593 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 14:16:18.627 | INFO     | mqtt.mqtt:on_connect:53 - MQTT broker connected.
+2025-07-26 14:16:18.628 | INFO     | mqtt.mqtt:on_connect:56 - Subscribed to topic: /nengduojie/#
+2025-07-26 14:18:10.481 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 14:18:10.524 | INFO     | mqtt.mqtt:on_connect:53 - MQTT broker connected.
+2025-07-26 14:18:10.525 | INFO     | mqtt.mqtt:on_connect:56 - Subscribed to topic: /nengduojie/#
+2025-07-26 14:18:22.342 | ERROR    | mqtt.mqtt:on_message:91 - Failed to parse topic: list index out of range
+2025-07-26 14:18:40.162 | ERROR    | mqtt.mqtt:on_message:91 - Failed to parse topic: list index out of range
+2025-07-26 14:26:13.904 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 14:26:13.950 | INFO     | mqtt.mqtt:on_connect:53 - MQTT broker connected.
+2025-07-26 14:26:13.952 | INFO     | mqtt.mqtt:on_connect:56 - Subscribed to topic: /nengduojie/#
+2025-07-26 15:07:32.472 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 15:07:32.514 | INFO     | mqtt.mqtt:on_connect:53 - MQTT broker connected.
+2025-07-26 15:07:32.515 | INFO     | mqtt.mqtt:on_connect:56 - Subscribed to topic: /nengduojie/#
+2025-07-26 15:07:40.313 | ERROR    | mqtt.mqtt:on_message:107 - Failed to parse payload: the JSON object must be str, bytes or bytearray, not dict
+2025-07-26 15:09:58.965 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 15:09:59.016 | INFO     | mqtt.mqtt:on_connect:53 - MQTT broker connected.
+2025-07-26 15:09:59.017 | INFO     | mqtt.mqtt:on_connect:56 - Subscribed to topic: /nengduojie/#
+2025-07-26 15:11:14.136 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 15:11:14.174 | INFO     | mqtt.mqtt:on_connect:53 - MQTT broker connected.
+2025-07-26 15:11:14.175 | INFO     | mqtt.mqtt:on_connect:56 - Subscribed to topic: /nengduojie/#
+2025-07-26 16:02:23.833 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 16:02:23.877 | INFO     | mqtt.mqtt:on_connect:53 - MQTT broker connected.
+2025-07-26 16:02:23.878 | INFO     | mqtt.mqtt:on_connect:56 - Subscribed to topic: /nengduojie/#
+2025-07-26 16:02:27.382 | ERROR    | mqtt.mqtt:on_message:108 - Failed to parse payload: <class 'type'>
+2025-07-26 16:02:58.883 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 16:02:58.919 | INFO     | mqtt.mqtt:on_connect:53 - MQTT broker connected.
+2025-07-26 16:02:58.921 | INFO     | mqtt.mqtt:on_connect:56 - Subscribed to topic: /nengduojie/#
+2025-07-26 16:28:42.951 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 16:28:42.988 | INFO     | mqtt.mqtt:on_connect:53 - MQTT broker connected.
+2025-07-26 16:28:42.988 | INFO     | mqtt.mqtt:on_connect:56 - Subscribed to topic: /nengduojie/#
+2025-07-26 16:56:01.010 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 16:56:01.048 | INFO     | mqtt.mqtt:on_connect:53 - MQTT broker connected.
+2025-07-26 16:56:01.048 | INFO     | mqtt.mqtt:on_connect:56 - Subscribed to topic: /nengduojie/#
+2025-07-26 16:56:04.854 | INFO     | mqtt.mqtt:on_message:153 - Connected to database: Engine(postgresql+psycopg2://kronecai@localhost:5432/mqtt_db)
+2025-07-26 17:35:25.689 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 17:35:25.731 | INFO     | mqtt.mqtt:on_connect:53 - MQTT broker connected.
+2025-07-26 17:35:25.732 | INFO     | mqtt.mqtt:on_connect:56 - Subscribed to topic: /nengduojie/#
+2025-07-26 17:35:30.582 | INFO     | mqtt.mqtt:on_message:153 - Connected to database: Engine(postgresql+psycopg2://kronecai@localhost:5432/mqtt_db1)
+2025-07-26 17:36:54.116 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 17:36:54.162 | INFO     | mqtt.mqtt:on_connect:53 - MQTT broker connected.
+2025-07-26 17:36:54.163 | INFO     | mqtt.mqtt:on_connect:56 - Subscribed to topic: /nengduojie/#
+2025-07-26 21:43:36.273 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 21:43:36.319 | INFO     | mqtt.mqtt:on_connect:53 - MQTT broker connected.
+2025-07-26 21:43:36.319 | INFO     | mqtt.mqtt:on_connect:56 - Subscribed to topic: /nengduojie/#
+2025-07-26 21:43:40.695 | ERROR    | mqtt.mqtt:on_message:157 - Failed to connect to database: name 'text' is not defined
+2025-07-26 21:44:29.051 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 21:44:29.088 | INFO     | mqtt.mqtt:on_connect:53 - MQTT broker connected.
+2025-07-26 21:44:29.089 | INFO     | mqtt.mqtt:on_connect:56 - Subscribed to topic: /nengduojie/#
+2025-07-26 21:44:34.637 | ERROR    | mqtt.mqtt:on_message:157 - Failed to connect to database: (psycopg2.errors.UndefinedTable) relation "tbl_mqtt_log" does not exist
+LINE 1: select 1 from tbl_mqtt_log
+                      ^
+
+[SQL: select 1 from tbl_mqtt_log]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+2025-07-26 21:45:46.633 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 21:45:46.667 | INFO     | mqtt.mqtt:on_connect:53 - MQTT broker connected.
+2025-07-26 21:45:46.667 | INFO     | mqtt.mqtt:on_connect:56 - Subscribed to topic: /nengduojie/#
+2025-07-26 21:45:52.048 | INFO     | mqtt.mqtt:on_message:154 - (1,)
+2025-07-26 21:45:52.048 | INFO     | mqtt.mqtt:on_message:155 - Connected to database: Engine(postgresql+psycopg2://kronecai@localhost:5432/mqtt_db)
+2025-07-26 21:46:41.445 | INFO     | mqtt.mqtt:__init__:27 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 21:46:41.496 | INFO     | mqtt.mqtt:on_connect:53 - MQTT broker connected.
+2025-07-26 21:46:41.497 | INFO     | mqtt.mqtt:on_connect:56 - Subscribed to topic: /nengduojie/#
+2025-07-26 21:46:45.882 | ERROR    | mqtt.mqtt:on_message:157 - Failed to connect to database: (psycopg2.OperationalError) FATAL:  database "mqtt_db12" does not exist
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2025-07-26 21:52:18.358 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 21:52:18.407 | INFO     | mqtt.mqtt:on_connect:61 - MQTT broker connected.
+2025-07-26 21:52:18.407 | INFO     | mqtt.mqtt:on_connect:64 - Subscribed to topic: /nengduojie/#
+2025-07-26 21:52:28.925 | INFO     | mqtt.mqtt:on_message:158 - (1,)
+2025-07-26 22:45:32.471 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 22:46:23.474 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 22:59:08.492 | ERROR    | db.db:get_db_connection:20 - Error connection to PostgreSQL Database: 
+2025-07-26 22:59:08.493 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 23:00:00.822 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-26 23:00:39.399 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 00:04:06.792 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 00:04:06.840 | INFO     | mqtt.mqtt:on_connect:71 - MQTT broker connected.
+2025-07-27 00:04:06.841 | INFO     | mqtt.mqtt:on_connect:74 - Subscribed to topic: /nengduojie/#
+2025-07-27 00:04:17.122 | INFO     | mqtt.mqtt:on_message:168 - (1,)
+2025-07-27 00:06:46.070 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 00:12:03.385 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 00:12:03.429 | INFO     | mqtt.mqtt:on_connect:70 - MQTT broker connected.
+2025-07-27 00:12:03.430 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-27 00:23:07.879 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 00:24:12.899 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 00:24:12.943 | INFO     | mqtt.mqtt:on_connect:73 - MQTT broker connected.
+2025-07-27 00:24:12.944 | INFO     | mqtt.mqtt:on_connect:76 - Subscribed to topic: /nengduojie/#
+2025-07-27 00:39:23.966 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 00:39:24.010 | INFO     | mqtt.mqtt:on_connect:66 - MQTT broker connected.
+2025-07-27 00:39:24.012 | INFO     | mqtt.mqtt:on_connect:70 - Subscribed to topic: /nengduojie/#
+2025-07-27 00:39:48.488 | ERROR    | mqtt.mqtt:on_message:192 - Failed to parse payload: 'MQTTMessage' object has no attribute 'client_id'
+2025-07-27 00:42:27.096 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 00:42:27.160 | INFO     | mqtt.mqtt:on_connect:66 - MQTT broker connected.
+2025-07-27 00:42:27.191 | INFO     | mqtt.mqtt:on_connect:70 - Subscribed to topic: /nengduojie/#
+2025-07-27 00:42:30.715 | ERROR    | mqtt.mqtt:on_message:192 - Failed to parse payload: 'MQTT' object has no attribute 'client_id'
+2025-07-27 00:44:19.754 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 00:44:19.791 | INFO     | mqtt.mqtt:on_connect:66 - MQTT broker connected.
+2025-07-27 00:44:19.794 | INFO     | mqtt.mqtt:on_connect:70 - Subscribed to topic: /nengduojie/#
+2025-07-27 00:44:22.307 | ERROR    | mqtt.mqtt:on_message:192 - Failed to parse payload: 'Client' object has no attribute 'client_id'
+2025-07-27 00:47:41.960 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 00:48:17.438 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 00:48:17.485 | INFO     | mqtt.mqtt:on_connect:67 - MQTT broker connected.
+2025-07-27 00:48:17.487 | INFO     | mqtt.mqtt:on_connect:71 - Subscribed to topic: /nengduojie/#
+2025-07-27 00:48:21.814 | ERROR    | mqtt.mqtt:on_message:193 - Failed to parse payload: (psycopg2.errors.DatatypeMismatch) column "ts" is of type timestamp without time zone but expression is of type integer
+LINE 1: ...L", "msg_cnt_R", "msg_T_state", msg_time) VALUES (1753453058...
+                                                             ^
+HINT:  You will need to rewrite or cast the expression.
+
+[SQL: INSERT INTO tbl_mqtt_message (ts, topic, t_factory, t_product, t_device_type, t_device_id, qos, payload_en, payload_de, client_id, msg_type, msg_ts, msg_temp, msg_csq, msg_bat, msg_ccid, msg_com, msg_crc, msg_version, msg_side, msg_triggle_time, "msg_cnt_L", "msg_cnt_R", "msg_T_state", msg_time) VALUES (%(ts)s, %(topic)s, %(t_factory)s, %(t_product)s, %(t_device_type)s, %(t_device_id)s, %(qos)s, %(payload_en)s, %(payload_de)s, %(client_id)s, %(msg_type)s, %(msg_ts)s, %(msg_temp)s, %(msg_csq)s, %(msg_bat)s, %(msg_ccid)s, %(msg_com)s, %(msg_crc)s, %(msg_version)s, %(msg_side)s, %(msg_triggle_time)s, %(msg_cnt_L)s, %(msg_cnt_R)s, %(msg_T_state)s, %(msg_time)s)]
+[parameters: {'ts': 1753453058, 'topic': '/nengduojie/mousetrap/nb-001/868366073634889', 't_factory': 'nengduojie', 't_product': 'mousetrap', 't_device_type': 'nb-001', 't_device_id': '868366073634889', 'qos': 0, 'payload_en': <psycopg2.extensions.Binary object at 0x7f80f299c300>, 'payload_de': '{"type": "nb_maintain", "timestamp": 1753453058, "CCID": "898604B60322D0300881", "T": 24, "com": "NB-IOT", "csq": "17", "crc": "ABCD1234", "version": "2.0.2", "bat": 3516, "model": "002"}', 'client_id': 'server_test01', 'msg_type': 'nb_maintain', 'msg_ts': 1753453058, 'msg_temp': 24, 'msg_csq': '17', 'msg_bat': 3516, 'msg_ccid': '898604B60322D0300881', 'msg_com': 'NB-IOT', 'msg_crc': 'ABCD1234', 'msg_version': '2.0.2', 'msg_side': 0, 'msg_triggle_time': None, 'msg_cnt_L': 0, 'msg_cnt_R': 0, 'msg_T_state': 0, 'msg_time': ''}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+2025-07-27 00:51:37.470 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 00:51:37.511 | INFO     | mqtt.mqtt:on_connect:67 - MQTT broker connected.
+2025-07-27 00:51:37.515 | INFO     | mqtt.mqtt:on_connect:71 - Subscribed to topic: /nengduojie/#
+2025-07-27 00:51:42.942 | ERROR    | mqtt.mqtt:on_message:193 - Failed to parse payload: name 'timezone' is not defined
+2025-07-27 00:52:29.275 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 00:52:29.322 | INFO     | mqtt.mqtt:on_connect:67 - MQTT broker connected.
+2025-07-27 00:52:29.325 | INFO     | mqtt.mqtt:on_connect:71 - Subscribed to topic: /nengduojie/#
+2025-07-27 00:52:33.352 | ERROR    | mqtt.mqtt:on_message:193 - Failed to parse payload: (psycopg2.errors.DatatypeMismatch) column "msg_ts" is of type timestamp without time zone but expression is of type integer
+LINE 1: ..."model": "002"}', 'server_test01', 'nb_maintain', 1753453058...
+                                                             ^
+HINT:  You will need to rewrite or cast the expression.
+
+[SQL: INSERT INTO tbl_mqtt_message (ts, topic, t_factory, t_product, t_device_type, t_device_id, qos, payload_en, payload_de, client_id, msg_type, msg_ts, msg_temp, msg_csq, msg_bat, msg_ccid, msg_com, msg_crc, msg_version, msg_side, msg_triggle_time, "msg_cnt_L", "msg_cnt_R", "msg_T_state", msg_time) VALUES (%(ts)s, %(topic)s, %(t_factory)s, %(t_product)s, %(t_device_type)s, %(t_device_id)s, %(qos)s, %(payload_en)s, %(payload_de)s, %(client_id)s, %(msg_type)s, %(msg_ts)s, %(msg_temp)s, %(msg_csq)s, %(msg_bat)s, %(msg_ccid)s, %(msg_com)s, %(msg_crc)s, %(msg_version)s, %(msg_side)s, %(msg_triggle_time)s, %(msg_cnt_L)s, %(msg_cnt_R)s, %(msg_T_state)s, %(msg_time)s)]
+[parameters: {'ts': datetime.datetime(2025, 7, 25, 22, 17, 38), 'topic': '/nengduojie/mousetrap/nb-001/868366073634889', 't_factory': 'nengduojie', 't_product': 'mousetrap', 't_device_type': 'nb-001', 't_device_id': '868366073634889', 'qos': 0, 'payload_en': <psycopg2.extensions.Binary object at 0x7ff193fe4330>, 'payload_de': '{"type": "nb_maintain", "timestamp": 1753453058, "CCID": "898604B60322D0300881", "T": 24, "com": "NB-IOT", "csq": "17", "crc": "ABCD1234", "version": "2.0.2", "bat": 3516, "model": "002"}', 'client_id': 'server_test01', 'msg_type': 'nb_maintain', 'msg_ts': 1753453058, 'msg_temp': 24, 'msg_csq': '17', 'msg_bat': 3516, 'msg_ccid': '898604B60322D0300881', 'msg_com': 'NB-IOT', 'msg_crc': 'ABCD1234', 'msg_version': '2.0.2', 'msg_side': 0, 'msg_triggle_time': None, 'msg_cnt_L': 0, 'msg_cnt_R': 0, 'msg_T_state': 0, 'msg_time': ''}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+2025-07-27 00:55:04.575 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 00:55:04.647 | INFO     | mqtt.mqtt:on_connect:67 - MQTT broker connected.
+2025-07-27 00:55:04.649 | INFO     | mqtt.mqtt:on_connect:71 - Subscribed to topic: /nengduojie/#
+2025-07-27 00:55:10.475 | ERROR    | mqtt.mqtt:on_message:193 - Failed to parse payload: (psycopg2.errors.DatatypeMismatch) column "msg_ts" is of type timestamp without time zone but expression is of type integer
+LINE 1: ..."model": "002"}', 'server_test01', 'nb_maintain', 1753453058...
+                                                             ^
+HINT:  You will need to rewrite or cast the expression.
+
+[SQL: INSERT INTO tbl_mqtt_message (ts, topic, t_factory, t_product, t_device_type, t_device_id, qos, payload_en, payload_de, client_id, msg_type, msg_ts, msg_temp, msg_csq, msg_bat, msg_ccid, msg_com, msg_crc, msg_version, msg_side, msg_triggle_time, "msg_cnt_L", "msg_cnt_R", "msg_T_state", msg_time) VALUES (%(ts)s, %(topic)s, %(t_factory)s, %(t_product)s, %(t_device_type)s, %(t_device_id)s, %(qos)s, %(payload_en)s, %(payload_de)s, %(client_id)s, %(msg_type)s, %(msg_ts)s, %(msg_temp)s, %(msg_csq)s, %(msg_bat)s, %(msg_ccid)s, %(msg_com)s, %(msg_crc)s, %(msg_version)s, %(msg_side)s, %(msg_triggle_time)s, %(msg_cnt_L)s, %(msg_cnt_R)s, %(msg_T_state)s, %(msg_time)s)]
+[parameters: {'ts': datetime.datetime(2025, 7, 27, 0, 55, 10, 469771), 'topic': '/nengduojie/mousetrap/nb-001/868366073634889', 't_factory': 'nengduojie', 't_product': 'mousetrap', 't_device_type': 'nb-001', 't_device_id': '868366073634889', 'qos': 0, 'payload_en': <psycopg2.extensions.Binary object at 0x7f78be19c330>, 'payload_de': '{"type": "nb_maintain", "timestamp": 1753453058, "CCID": "898604B60322D0300881", "T": 24, "com": "NB-IOT", "csq": "17", "crc": "ABCD1234", "version": "2.0.2", "bat": 3516, "model": "002"}', 'client_id': 'server_test01', 'msg_type': 'nb_maintain', 'msg_ts': 1753453058, 'msg_temp': 24, 'msg_csq': '17', 'msg_bat': 3516, 'msg_ccid': '898604B60322D0300881', 'msg_com': 'NB-IOT', 'msg_crc': 'ABCD1234', 'msg_version': '2.0.2', 'msg_side': 0, 'msg_triggle_time': None, 'msg_cnt_L': 0, 'msg_cnt_R': 0, 'msg_T_state': 0, 'msg_time': ''}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+2025-07-27 00:55:43.157 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 00:55:43.208 | INFO     | mqtt.mqtt:on_connect:67 - MQTT broker connected.
+2025-07-27 00:55:43.211 | INFO     | mqtt.mqtt:on_connect:71 - Subscribed to topic: /nengduojie/#
+2025-07-27 00:55:52.348 | INFO     | mqtt.mqtt:on_message:200 - (1,)
+2025-07-27 01:03:01.568 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 01:03:01.621 | INFO     | mqtt.mqtt:on_connect:67 - MQTT broker connected.
+2025-07-27 01:03:01.624 | INFO     | mqtt.mqtt:on_connect:71 - Subscribed to topic: /nengduojie/#
+2025-07-27 01:03:20.544 | ERROR    | mqtt.mqtt:on_message:192 - Failed to parse and save payload: 'NoneType' object is not subscriptable
+2025-07-27 07:00:22.775 | ERROR    | mqtt.mqtt:on_message:192 - Failed to parse and save payload: string indices must be integers
+2025-07-27 07:00:23.452 | ERROR    | mqtt.mqtt:on_message:192 - Failed to parse and save payload: string indices must be integers
+2025-07-27 07:00:41.961 | ERROR    | mqtt.mqtt:on_message:192 - Failed to parse and save payload: string indices must be integers
+2025-07-27 07:00:42.574 | ERROR    | mqtt.mqtt:on_message:192 - Failed to parse and save payload: string indices must be integers
+2025-07-27 08:16:56.412 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 08:16:56.468 | INFO     | mqtt.mqtt:on_connect:67 - MQTT broker connected.
+2025-07-27 08:16:56.472 | INFO     | mqtt.mqtt:on_connect:71 - Subscribed to topic: /nengduojie/#
+2025-07-27 08:18:44.477 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 08:18:44.527 | INFO     | mqtt.mqtt:on_connect:67 - MQTT broker connected.
+2025-07-27 08:18:44.529 | INFO     | mqtt.mqtt:on_connect:71 - Subscribed to topic: /nengduojie/#
+2025-07-27 08:18:49.331 | INFO     | mqtt.mqtt:on_message:189 - <model.model.MQTTMessage object at 0x7fdbf214b010>
+2025-07-27 08:19:58.662 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 08:19:58.711 | INFO     | mqtt.mqtt:on_connect:67 - MQTT broker connected.
+2025-07-27 08:19:58.713 | INFO     | mqtt.mqtt:on_connect:71 - Subscribed to topic: /nengduojie/#
+2025-07-27 08:20:03.232 | INFO     | mqtt.mqtt:on_message:189 - server_test01
+2025-07-27 08:21:45.476 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 08:21:45.522 | INFO     | mqtt.mqtt:on_connect:67 - MQTT broker connected.
+2025-07-27 08:21:45.524 | INFO     | mqtt.mqtt:on_connect:71 - Subscribed to topic: /nengduojie/#
+2025-07-27 08:21:49.586 | INFO     | mqtt.mqtt:on_message:189 - server_test01
+2025-07-27 08:21:49.621 | ERROR    | mqtt.mqtt:on_message:193 - Failed to parse and save payload: (psycopg2.errors.DatatypeMismatch) column "msg_triggle_time" is of type timestamp without time zone but expression is of type integer
+LINE 1: ...2'::timestamp, 26, '20', 3566, '', '', '', '', 1, 1, 0, 0, 0...
+                                                             ^
+HINT:  You will need to rewrite or cast the expression.
+
+[SQL: INSERT INTO tbl_mqtt_message (ts, topic, t_factory, t_product, t_device_type, t_device_id, qos, payload_en, payload_de, client_id, msg_type, msg_ts, msg_temp, msg_csq, msg_bat, msg_ccid, msg_com, msg_crc, msg_version, msg_side, msg_triggle_time, "msg_cnt_L", "msg_cnt_R", "msg_T_state", msg_time) VALUES (%(ts)s, %(topic)s, %(t_factory)s, %(t_product)s, %(t_device_type)s, %(t_device_id)s, %(qos)s, %(payload_en)s, %(payload_de)s, %(client_id)s, %(msg_type)s, %(msg_ts)s, %(msg_temp)s, %(msg_csq)s, %(msg_bat)s, %(msg_ccid)s, %(msg_com)s, %(msg_crc)s, %(msg_version)s, %(msg_side)s, %(msg_triggle_time)s, %(msg_cnt_L)s, %(msg_cnt_R)s, %(msg_T_state)s, %(msg_time)s)]
+[parameters: {'ts': datetime.datetime(2025, 7, 27, 8, 21, 49, 586220), 'topic': '/nengduojie/mousetrap/nb-001/868366073634889', 't_factory': 'nengduojie', 't_product': 'mousetrap', 't_device_type': 'nb-001', 't_device_id': '868366073634889', 'qos': 0, 'payload_en': <psycopg2.extensions.Binary object at 0x7fd04d808360>, 'payload_de': '{"type": "first_triggle", "side": 1, "triggle_time": 1, "timestamp": 1697964022, "bat": 3566, "T": 26, "csq": "20"}', 'client_id': 'server_test01', 'msg_type': 'first_triggle', 'msg_ts': datetime.datetime(2023, 10, 22, 16, 40, 22), 'msg_temp': 26, 'msg_csq': '20', 'msg_bat': 3566, 'msg_ccid': '', 'msg_com': '', 'msg_crc': '', 'msg_version': '', 'msg_side': 1, 'msg_triggle_time': 1, 'msg_cnt_L': 0, 'msg_cnt_R': 0, 'msg_T_state': 0, 'msg_time': ''}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+2025-07-27 08:24:25.492 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 08:24:25.541 | INFO     | mqtt.mqtt:on_connect:67 - MQTT broker connected.
+2025-07-27 08:24:25.543 | INFO     | mqtt.mqtt:on_connect:71 - Subscribed to topic: /nengduojie/#
+2025-07-27 08:24:30.023 | INFO     | mqtt.mqtt:on_message:189 - server_test01
+2025-07-27 08:24:30.027 | ERROR    | mqtt.mqtt:on_message:193 - Failed to parse and save payload: (psycopg2.errors.DatatypeMismatch) column "msg_triggle_time" is of type timestamp without time zone but expression is of type integer
+LINE 1: ...2'::timestamp, 26, '20', 3566, '', '', '', '', 1, 1753453058...
+                                                             ^
+HINT:  You will need to rewrite or cast the expression.
+
+[SQL: INSERT INTO tbl_mqtt_message (ts, topic, t_factory, t_product, t_device_type, t_device_id, qos, payload_en, payload_de, client_id, msg_type, msg_ts, msg_temp, msg_csq, msg_bat, msg_ccid, msg_com, msg_crc, msg_version, msg_side, msg_triggle_time, "msg_cnt_L", "msg_cnt_R", "msg_T_state", msg_time) VALUES (%(ts)s, %(topic)s, %(t_factory)s, %(t_product)s, %(t_device_type)s, %(t_device_id)s, %(qos)s, %(payload_en)s, %(payload_de)s, %(client_id)s, %(msg_type)s, %(msg_ts)s, %(msg_temp)s, %(msg_csq)s, %(msg_bat)s, %(msg_ccid)s, %(msg_com)s, %(msg_crc)s, %(msg_version)s, %(msg_side)s, %(msg_triggle_time)s, %(msg_cnt_L)s, %(msg_cnt_R)s, %(msg_T_state)s, %(msg_time)s)]
+[parameters: {'ts': datetime.datetime(2025, 7, 27, 8, 24, 30, 23299), 'topic': '/nengduojie/mousetrap/nb-001/868366073634889', 't_factory': 'nengduojie', 't_product': 'mousetrap', 't_device_type': 'nb-001', 't_device_id': '868366073634889', 'qos': 0, 'payload_en': <psycopg2.extensions.Binary object at 0x7fd6f20e4360>, 'payload_de': '{"type": "first_triggle", "side": 1, "triggle_time": 1753453058, "timestamp": 1697964022, "bat": 3566, "T": 26, "csq": "20"}', 'client_id': 'server_test01', 'msg_type': 'first_triggle', 'msg_ts': datetime.datetime(2023, 10, 22, 16, 40, 22), 'msg_temp': 26, 'msg_csq': '20', 'msg_bat': 3566, 'msg_ccid': '', 'msg_com': '', 'msg_crc': '', 'msg_version': '', 'msg_side': 1, 'msg_triggle_time': 1753453058, 'msg_cnt_L': 0, 'msg_cnt_R': 0, 'msg_T_state': 0, 'msg_time': ''}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+2025-07-27 08:25:31.301 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 08:25:31.347 | INFO     | mqtt.mqtt:on_connect:67 - MQTT broker connected.
+2025-07-27 08:25:31.350 | INFO     | mqtt.mqtt:on_connect:71 - Subscribed to topic: /nengduojie/#
+2025-07-27 08:25:34.317 | INFO     | mqtt.mqtt:on_message:189 - server_test01
+2025-07-27 09:59:20.693 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 09:59:20.746 | INFO     | mqtt.mqtt:on_connect:67 - MQTT broker connected.
+2025-07-27 09:59:20.748 | INFO     | mqtt.mqtt:on_connect:71 - Subscribed to topic: /nengduojie/#
+2025-07-27 09:59:34.734 | DEBUG    | mqtt.mqtt:on_message:122 - {'type': 'first_triggle', 'side': 1, 'triggle_time': 1753453058, 'timestamp': 1697964022, 'bat': 3566, 'T': 26, 'csq': '20'}
+2025-07-27 09:59:34.734 | DEBUG    | mqtt.mqtt:on_message:123 - b'Hello World'
+2025-07-27 09:59:34.735 | INFO     | mqtt.mqtt:on_message:190 - server_test01
+2025-07-27 10:02:03.326 | INFO     | mqtt.mqtt:__init__:32 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 10:02:03.369 | INFO     | mqtt.mqtt:on_connect:67 - MQTT broker connected.
+2025-07-27 10:02:03.370 | INFO     | mqtt.mqtt:on_connect:71 - Subscribed to topic: /nengduojie/#
+2025-07-27 10:02:07.012 | DEBUG    | mqtt.mqtt:on_message:122 - {'type': 'first_triggle', 'side': 1, 'triggle_time': 1753453058, 'timestamp': 1697964022, 'bat': 3566, 'T': 26, 'csq': '20'}
+2025-07-27 10:02:07.013 | DEBUG    | mqtt.mqtt:on_message:123 - b'Hello World'
+2025-07-27 10:02:07.013 | DEBUG    | mqtt.mqtt:on_message:190 - <model.model.MQTTMessage object at 0x7fe56b03ecb0>
+2025-07-27 10:20:52.718 | INFO     | mqtt.mqtt:__init__:33 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 10:32:24.959 | INFO     | mqtt.mqtt:__init__:33 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 10:32:25.025 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-27 10:32:25.027 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-27 10:33:27.094 | DEBUG    | mqtt.mqtt:on_message:117 - b'Hello World'
+2025-07-27 10:33:27.104 | DEBUG    | mqtt.mqtt:on_message:121 - None
+2025-07-27 10:33:27.104 | ERROR    | mqtt.mqtt:on_message:199 - Failed to parse and save payload: 'NoneType' object is not subscriptable
+2025-07-27 10:36:07.824 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 10:36:07.872 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-27 10:39:52.821 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 10:39:52.873 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-27 10:39:52.875 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-27 22:20:03.834 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 22:20:03.892 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-27 22:20:03.893 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-27 22:21:01.910 | DEBUG    | mqtt.mqtt:on_message:118 - b'\xd1\x01\xee\x93\x06\x1f\xda\x9cg9\xda\nI\xd1\xa1\xc5\x04\x12\xd7\xa1r\xc5\x7f\x95\xd9\x88.\xfb\x9b\xd8\xa4\xcd\x197\x1d.\x96\x18 B\x18\x10\x07\xc5(\xd8\xcc\xda\xeft\xb8\x01\x0c\x81w Jof\x88\x16D\xe9\xe2\xe5\xd6\xda\xf5\x82]\xad(\x1f\x1b\xdd\xc3\x0f\xe6\x0b7\xfc\xb9E\xdf\x93\xc3\xd9\xd0\xa6H\x0c\xc7\\dW5(\x90\x93\x07a\xaa#lN(3C\x9b\xb0\x1e\x8f\x03\xc9\xa9\xbf\xda|\x93`\xcf\x18G\x86\xebe\x94\xf5\x8d\xe2\xd1V\xbd\xb6\x9c\xaa^\xb1\xd7\xa3\xe3]\x9e>\xaf\x07\x97y\xe3\xb4\xa4\x83\xff\xa6\xc7\x13\x06\xb4\xaehq\xfe\xdfz\x8bJ\xfe\r\x02\rX\xac\xbb\xfdHt'
+2025-07-27 22:21:01.938 | DEBUG    | mqtt.mqtt:on_message:123 - {"type":"nb_maintain","timestamp":1753626060,"CCID":"898604B60322D0300881","T":25,"com":"NB-IOT","csq":"14","crc":"ABCD1234","version":"2.0.2","bat":3509,"model":"002"}
+2025-07-27 22:21:01.941 | ERROR    | mqtt.mqtt:on_message:203 - Failed to parse and save payload: string indices must be integers
+2025-07-27 22:21:21.110 | DEBUG    | mqtt.mqtt:on_message:118 - b'\xd1\x01\xee\x93\x06\x1f\xda\x9cg9\xda\nI\xd1\xa1\xc5\x04\x12\xd7\xa1r\xc5\x7f\x95\xd9\x88.\xfb\x9b\xd8\xa4\xcd*9\x04\t\xb5\xe6z)\xb6\xb4"\x92\xd4\x13a\xefs\xbb\xd7\x05\rL\xa1;4\x15\xa3E[\x15^Y\xdb\'\xfcR\xf1\xc0-epVD\x1f\x9dmv\x8f\xae\xb6v\x1eUnfz\xc7\xf7\xe7\x91{^\xb3\xde\xbb\xa2\xcd"\xba(\xab\xd1\x96\x8f\xbc\xe8a\xf9g\x968\x9f\x13\xac\xddO.\xcc\xef1\x16\x00\xfd\x8a[\x8a\x04Ix\x86\xd1\xd4\xfbU\r\xca;\xbf4\x8c\xc0\xb66\xe6}86_\xa4\xfd\x87\xca|\xa07`\xa9Ds-@\xb3\x1eB\xaa-N"\xa8\x9b\x7f\x0c"\xe8'
+2025-07-27 22:21:21.113 | DEBUG    | mqtt.mqtt:on_message:123 - {"type":"nb_maintain","timestamp":1753626079,"CCID":"898604B60322D0300881","T":25,"com":"NB-IOT","csq":"14","crc":"ABCD1234","version":"2.0.2","bat":3498,"model":"002"}
+2025-07-27 22:21:21.121 | ERROR    | mqtt.mqtt:on_message:203 - Failed to parse and save payload: string indices must be integers
+2025-07-27 22:21:40.365 | DEBUG    | mqtt.mqtt:on_message:118 - b'\xd1\x01\xee\x93\x06\x1f\xda\x9cg9\xda\nI\xd1\xa1\xc5\x04\x12\xd7\xa1r\xc5\x7f\x95\xd9\x88.\xfb\x9b\xd8\xa4\xcd\xbc\xce\xdf\xdc\xce\xc8e\x9b-\xdf\x0f%NAA}\x1b\x86^\xe2\xd7\x1a\xb4{gV\x02\xcd\xda\x02=\xbc\xc4\xf0\x98\xb0N\xb1/\x1b\x1a\x0e\xb23Q\xdf\xa8\x83\t>E3\xbb\x1b\xad\xb6\xc7b \x9d@\xd2\xeb\x8e\xce\xf6\x1fEn\x03\xdb\xb48\x04\xab\xa0N(\xca%\x02M0\xaa\xa5\xee\xe0\xde\xc6\xd99Oh\\I\xa9\xb1\x7f\xc6\x1e\xfbE\xf8\x0c\xb01\xf5;\xfe\x8aM\x04\xed\xe2\x1d,\x9c\x90\\;\xe4\xb7\xb6\x9b\xb6Y\xafw\xe5\x99$G\xb7\xdeU\x0f\xe5\xff\xe8CHu\xb6\xec'
+2025-07-27 22:21:40.368 | DEBUG    | mqtt.mqtt:on_message:123 - {"type":"nb_maintain","timestamp":1753626099,"CCID":"898604B60322D0300881","T":25,"com":"NB-IOT","csq":"13","crc":"ABCD1234","version":"2.0.2","bat":3485,"model":"002"}
+2025-07-27 22:21:40.371 | ERROR    | mqtt.mqtt:on_message:203 - Failed to parse and save payload: string indices must be integers
+2025-07-27 22:29:06.102 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 22:29:06.149 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-27 22:29:06.153 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-27 22:29:36.703 | DEBUG    | mqtt.mqtt:on_message:118 - b'Hello World'
+2025-07-27 22:29:36.720 | DEBUG    | mqtt.mqtt:on_message:123 - None
+2025-07-27 22:29:36.724 | ERROR    | mqtt.mqtt:on_message:205 - Failed to parse and save payload: 'NoneType' object cannot be interpreted as an integer
+2025-07-27 22:36:28.190 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 22:36:28.247 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-27 22:36:28.249 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-27 22:36:32.757 | DEBUG    | mqtt.mqtt:on_message:118 - b'Hello World'
+2025-07-27 22:36:32.771 | DEBUG    | mqtt.mqtt:on_message:123 - None
+2025-07-27 22:36:32.776 | ERROR    | mqtt.mqtt:on_message:205 - Failed to parse and save payload: name 'NULL' is not defined
+2025-07-27 22:39:48.887 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 22:39:48.942 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-27 22:39:48.944 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-27 22:39:51.413 | DEBUG    | mqtt.mqtt:on_message:118 - b'Hello World'
+2025-07-27 22:39:51.426 | DEBUG    | mqtt.mqtt:on_message:123 - None
+2025-07-27 22:41:16.519 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 22:41:16.562 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-27 22:41:16.563 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-27 22:41:41.992 | DEBUG    | mqtt.mqtt:on_message:118 - b"\xd1\x01\xee\x93\x06\x1f\xda\x9cg9\xda\nI\xd1\xa1\xc5\x04\x12\xd7\xa1r\xc5\x7f\x95\xd9\x88.\xfb\x9b\xd8\xa4\xcd\xdd\x9dg\xd5'\x00q\xa15\xbe\xad\x91\xb2*\xde\xcazq\xd2\xc0p\xeb\x03\xca\xe4lpM\xd5\x8e\xf0\x16\xd9\x00\xa2h\xbdh\xffG\x9a/\xffX\xf7\xb6N\xd3\t\xb8x\xea\x80r\x83[3\x15\x08;\xe4\x18m\xe8}%m\x98\xb4\xdb\x8f\xb1\xb3\x1eL\xe9x\x02\xc8&r\x82ah/y\x12G\x18\x80\xe1\x87\x1cV|\xa60\x02=\x1d\x979@&\xf6\xb8\x83\x0b\xe6/\xf1C\xbe\xa6\x906%\x12K@\x08\xa9)\xa5D\r\xf0#\xb8y6J\xdeQ\x87}\xa8Y\xd7]\x9b\xc8O\xd0"
+2025-07-27 22:41:42.008 | DEBUG    | mqtt.mqtt:on_message:123 - {"type":"nb_maintain","timestamp":1753627300,"CCID":"898604B60322D0300881","T":24,"com":"NB-IOT","csq":"13","crc":"ABCD1234","version":"2.0.2","bat":3504,"model":"002"}
+2025-07-27 22:41:42.010 | ERROR    | mqtt.mqtt:on_message:205 - Failed to parse and save payload: string indices must be integers
+2025-07-27 22:42:01.335 | DEBUG    | mqtt.mqtt:on_message:118 - b'\xd1\x01\xee\x93\x06\x1f\xda\x9cg9\xda\nI\xd1\xa1\xc5\x04\x12\xd7\xa1r\xc5\x7f\x95\xd9\x88.\xfb\x9b\xd8\xa4\xcd@,m\xe6S1\xdf\n.\xad\x8f\xbbT\x1b\xe50VR\xfc"\xda\xdb5\x85]\xd4N\xea\xc1+C\xf7\xfb\x996q\xe6~\xd2\xba\x06\xf7\xa0\xc7b\x9f\xbf\x0f dec\xaa\x02\xc5w\x99\xf8\x7f\x04a\xeaV\xc7\n\x9c\xeb,\x97\x9b\xfa\x8e\xeb\xf7a1jjC>,S\\\x97s\x11\xe1\xa8\x8f\x04y}\x1ei\xfeM\x16Pp\xba1\xe7\x1c\xd0\xd5@\xf9cZ&q*\x03\x8c\x9b\x00a\xf0\x8d\xa4R\xb8\x10w}\x8fiJ\xc7\x03v"\x1b\xf9M\xb5\x9eT\x8f\xba?^3E'
+2025-07-27 22:42:01.337 | DEBUG    | mqtt.mqtt:on_message:123 - {"type":"nb_maintain","timestamp":1753627319,"CCID":"898604B60322D0300881","T":24,"com":"NB-IOT","csq":"13","crc":"ABCD1234","version":"2.0.2","bat":3481,"model":"002"}
+2025-07-27 22:42:01.339 | ERROR    | mqtt.mqtt:on_message:205 - Failed to parse and save payload: string indices must be integers
+2025-07-27 22:42:21.361 | DEBUG    | mqtt.mqtt:on_message:118 - b'\xd1\x01\xee\x93\x06\x1f\xda\x9cg9\xda\nI\xd1\xa1\xc5\x04\x12\xd7\xa1r\xc5\x7f\x95\xd9\x88.\xfb\x9b\xd8\xa4\xcdj\xa1\xd6\xc4o\xb3\xadG\xf9\x19`\xe5^\xd0b\xa3A\x9c\xcd\xbb|m\xc1S\x94\\\xca.n\x9br\x9dm 9\xf6\x9d\xb4\xd5DG2\xb8\xea\x8d\xf5"\xferMS\x96l\x0f\xaf\xe4\x17\x98\x18H\x00\xbd\xdb9\xa2z\x87\xec\xb8\xf0tx\x151\xcbS\'\x15\x96`Z\x7f\xf2\x95\x01\xe2~\xd5\xf8\xbd/>rsE-yFx{\x90\xf7i\x0f[\x8e\x98"\x88\xdac\xeb?\x1760o/\x1dm\x8d\xcd*L,\xe1\x99\xab\x87aS<T\xb9h\xbfU{\x80\xd7cug\x18'
+2025-07-27 22:42:21.364 | DEBUG    | mqtt.mqtt:on_message:123 - {"type":"nb_maintain","timestamp":1753627340,"CCID":"898604B60322D0300881","T":24,"com":"NB-IOT","csq":"13","crc":"ABCD1234","version":"2.0.2","bat":3473,"model":"002"}
+2025-07-27 22:42:21.366 | ERROR    | mqtt.mqtt:on_message:205 - Failed to parse and save payload: string indices must be integers
+2025-07-27 23:18:21.828 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 23:18:21.878 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-27 23:18:21.880 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-27 23:18:41.989 | DEBUG    | mqtt.mqtt:on_message:118 - b"\xd1\x01\xee\x93\x06\x1f\xda\x9cg9\xda\nI\xd1\xa1\xc5\x04\x12\xd7\xa1r\xc5\x7f\x95\xd9\x88.\xfb\x9b\xd8\xa4\xcd+\x84\x13T\x17\xce!\xbf8C\xa5\xa1\x12\xe3\x05\x00R\x13\xf2\xc2\xd1\xab\xcb\x05\xd1&\xf0\x83h\x95Gg\x95Sh\xf9AVIlC\xaa*\x16I\xcd\x897\xb67\xfc\xe2ZDo6\x19 \n\x06\x01xTXY\x17%\xaa\xe0;]6\xc58k\x18\xa2\xb9b@5\xfcT\xfb\xd0\x9c$(\x05\xba+\x97fG\x9f\x92\x01\xb2~\x1e=\x7f\x18\xa0\xff\xab\x1a\xdd\xe2\xf5e\xc9\xc5j\xf1\xf4\x9b\xaf&\x08\x1b<\xaf\x88*\xed\xc00\xef\xe9\xe7\x08\x1e\x1f\xf5i\x82!\\\x90'+\x0b\xfd"
+2025-07-27 23:18:42.004 | DEBUG    | mqtt.mqtt:on_message:123 - {"type":"nb_maintain","timestamp":1753629520,"CCID":"898604B60322D0300881","T":25,"com":"NB-IOT","csq":"15","crc":"ABCD1234","version":"2.0.2","bat":3529,"model":"002"}
+2025-07-27 23:19:01.154 | DEBUG    | mqtt.mqtt:on_message:118 - b'\xd1\x01\xee\x93\x06\x1f\xda\x9cg9\xda\nI\xd1\xa1\xc5\x04\x12\xd7\xa1r\xc5\x7f\x95\xd9\x88.\xfb\x9b\xd8\xa4\xcdN\xda\xff\x93\xa7V\xc7\x89\xa5\xd7s\x0b%\xa5\xfe\xc7U\x91\x02\xbbB\xa9%\xd9*\xdek\x19\x10\x9d2\x93\x06C\xd3\xad\x16\x94\xe3Q"h\xd6\xa7\t\x02|\xba\x8b\x88\xbd@\xfb\x8c\x03w\x14\x90\x12\t\x85e\xb5\x0e\xce\xba:\x0e\xc4eK\xa2\x99vFj\xe3J\xe4zU1P0\x82=\x9bw\x05\xc7\xe9<\x03\xb7\t\x9d\xe1!e\xb7\x05\x80+]\x0f\xba\n\xbaE\xa8\xa6~\xdd2\t>2/\xa1\xf6@\xe9\x06\xab\x03<\xaf\xf8Q0\xb1-\x1e3x\xfd\x86\x15{\x87\xa4k\x01\x9b'
+2025-07-27 23:19:01.157 | DEBUG    | mqtt.mqtt:on_message:123 - {"type":"nb_maintain","timestamp":1753629539,"CCID":"898604B60322D0300881","T":25,"com":"NB-IOT","csq":"17","crc":"ABCD1234","version":"2.0.2","bat":3440,"model":"002"}
+2025-07-27 23:21:22.029 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 23:21:22.074 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-27 23:21:22.077 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-27 23:21:42.302 | DEBUG    | mqtt.mqtt:on_message:118 - b'\xd1\x01\xee\x93\x06\x1f\xda\x9cg9\xda\nI\xd1\xa1\xc5\x04\x12\xd7\xa1r\xc5\x7f\x95\xd9\x88.\xfb\x9b\xd8\xa4\xcd\xa5\x0fW\x12By8\x9bx\x9b\x18\x8d\xb7\xcd\xa4\xaezGG\x16\x90\xe4O\x8d6\xe0\xc6"D5\x0c\n<\x00Y\xd1\x8f\x18\r2T\xcdr\xa7\xd1\x0e\xd8\xa15\x10\xa1fZ\xd1{o-O\x87[\xb9\x17\xbf\x1b\x8b\x8b\x8c\xc41\xca\x1d\x1b\xa0\x8a\xf7mQ\'p\xea\x16\x9ex\xccY\xb8_\x86\x9c\xd4}\x05\xe6(\xcd\x87\x1ee$\xb6\x832\x1f\xa4C\x82\x8edb\xd9\xe1\xc5\xfe\x1f\xc9\xf7:\x9c\'\xb3\x0e\xcf@\xb2vH%!\xf51aH\xbb\xf7g\x9f t\x01\n\xf1\x8cd\xea'
+2025-07-27 23:21:42.320 | DEBUG    | mqtt.mqtt:on_message:123 - {"type":"nb_maintain","timestamp":1753629701,"CCID":"898604B60322D0300881","T":25,"com":"NB-IOT","csq":"14","crc":"ABCD1234","version":"2.0.2","bat":3493,"model":"002"}
+2025-07-27 23:31:21.072 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 23:31:21.127 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-27 23:31:21.129 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-27 23:31:42.495 | DEBUG    | mqtt.mqtt:on_message:118 - b'\xd1\x01\xee\x93\x06\x1f\xda\x9cg9\xda\nI\xd1\xa1\xc5\x04\x12\xd7\xa1r\xc5\x7f\x95\xd9\x88.\xfb\x9b\xd8\xa4\xcd\x80\xf96\x0e\x9d\x030\xa5\xe6}\xe5\xab\x19\x07\x9ao\x13\xca\x95\xfc\x8c_e\xb3\xe7w\xe2\x81\x7fN_\xd8\x95:}}\x8d\x13\n\x11\xe5\x14\xa3o\x8e\xde\xcc]\xdb\xa2\x8d\xf1]J\x1a%\xdf\xf5\x1c\xaa\xe3en\xea=\xd4\xc0\x8d\xe5\x03\x1b\x00\x02}}n6\xda\x9cv\xa4\xd1\x1b\xf3\xd2\xc1G+Qb\x05\xa0d>sm\\\xe4\t^\xe1\x07\xb4|\x9dB\x7f\x05,\xcd\x8b\xdb\xf3P\x8f\x00C\x03\xdb"\x91F\xd4\xbd\x9d\xb0\x866i\xa4\x80dq\xb9D1u\x88\x95\xaeq\x92m\xc7'
+2025-07-27 23:31:42.510 | DEBUG    | mqtt.mqtt:on_message:123 - {"type":"nb_maintain","timestamp":1753630301,"CCID":"898604B60322D0300881","T":24,"com":"NB-IOT","csq":"15","crc":"ABCD1234","version":"2.0.2","bat":3519,"model":"002"}
+2025-07-27 23:32:15.730 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 23:32:15.777 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-27 23:32:15.779 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-27 23:32:21.082 | DEBUG    | mqtt.mqtt:on_message:118 - b'\xd1\x01\xee\x93\x06\x1f\xda\x9cg9\xda\nI\xd1\xa1\xc5\x04\x12\xd7\xa1r\xc5\x7f\x95\xd9\x88.\xfb\x9b\xd8\xa4\xcd\xd3\x19\xaf\xdd\x89\x07\xa5\xdb\x85\n+Q1\x1al\xf8\x06\xb7Gk\xd3\xb2R\xfc\xd2y\x15\x8c\x810\x17\x12\xe3\x94\xae\xf8_\x17s\x07n\xd3I\x17\xa6\xec\xa8\xea\xbc4\x9fL\xc8\xd1\x02\x93\x7f\x1bq\xe5&\xd6z\x1e\xbd\xbe9\xa9\xc2^\xcc\xefw6\xfa\xc5\x15\xdbz\xa7\x9bII>\xcfO(\xc7\xce\xb0\xfd\xff\x1d\xc2y\xb1\xb7uNS\x88\x9a\xdf\x13h\xd5$\xc5\x1a\r\x9c\x9b\x1a\x8f\xcfX\xe1?\x98\x01 \xbb\x1c|\x85OiQ\xa1JR\xcd\xf8O0Tap/E\x7fq\xd2\x0f'
+2025-07-27 23:32:21.097 | DEBUG    | mqtt.mqtt:on_message:123 - {"type":"nb_maintain","timestamp":1753630339,"CCID":"898604B60322D0300881","T":24,"com":"NB-IOT","csq":"16","crc":"ABCD1234","version":"2.0.2","bat":3475,"model":"002"}
+2025-07-27 23:33:23.737 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 23:33:23.784 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-27 23:33:23.787 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-27 23:33:45.523 | DEBUG    | mqtt.mqtt:on_message:118 - b'\xd1\x01\xee\x93\x06\x1f\xda\x9cg9\xda\nI\xd1\xa1\xc5\x04\x12\xd7\xa1r\xc5\x7f\x95\xd9\x88.\xfb\x9b\xd8\xa4\xcd\x8dK\x1fZIL\xf4i\x13\xe7\x15\xc1B\xe1j\x88\xb2D\x92\xe9\xc4\x90c(7\x97\xa9\x8e\xfd\x84\x16\xa0\xa9\xb3\xacO/\xf6\x0c\xbcowz\x13\xbc\xe1\xc6\xb9|\xed\xff\xc2\x90\x8clEH\xd8\xa0@F\xba4\xba\xe2V\xb5S\xf0\x0c\xbb\xe985\x12\x87\x96\xec\x186\xaf\xb1\x7f\x86F\xe2h_Ha\x02=\tj)R\x07\xf5|<\xd9\x08=2\xff\xe1\xd8\xa4\xbe\xc4\xc1\xb0\xa9\x8ci\x8e\xed\x85G\x8e\xf1\x7f{rZ\xfe\xd3\r\x9a\xd2\xfcM\xeb\r\xab\xd6\xde\x9bz\x17n*\xed\xe6'
+2025-07-27 23:33:45.538 | DEBUG    | mqtt.mqtt:on_message:123 - {"type":"nb_maintain","timestamp":1753630423,"CCID":"898604B60322D0300881","T":24,"com":"NB-IOT","csq":"16","crc":"ABCD1234","version":"2.0.2","bat":3511,"model":"002"}
+2025-07-27 23:35:02.003 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 23:35:02.051 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-27 23:35:02.053 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-27 23:35:19.002 | DEBUG    | mqtt.mqtt:on_message:118 - b'\xd1\x01\xee\x93\x06\x1f\xda\x9cg9\xda\nI\xd1\xa1\xc5\x04\x12\xd7\xa1r\xc5\x7f\x95\xd9\x88.\xfb\x9b\xd8\xa4\xcd5\xc1\x0f-\x17\xf9\xe1lS\xb5\xb6;i\xcc\xafNH\x96\xb4\x97\xbc"\r\xcd\x878\x1b\x9f\xf4\x13g\xca\x938\xc1\x12\x1a\xf1U\xc4_\xcdp\x9a\x1e\x81)Rq\xea\xe0;}\x9c)k)\xf0\xceK^\xfa\xc2\x1f\x02\x1c\xb7\x0ff\x9f\xd7\xff\x18RD\xf8rX\xb2||\xe5\x90\xf2\xc2\xa8L\x03\xf8\x9d\xad\xbc\xa2\xc1@\x8a\xdb\xcf5\x16U}\xa9\x9e~\xa6C\xdcUf\x14@lb\xb7\xb6\xcf\x9f\x84[=\xe6\x97c\xfd:\x90\xad\x1d\xc6\xc9D\x14!m0vl\xe1\xbf\\)\x9a\xc6'
+2025-07-27 23:35:19.017 | DEBUG    | mqtt.mqtt:on_message:123 - {"type":"nb_maintain","timestamp":1753630517,"CCID":"898604B60322D0300881","T":24,"com":"NB-IOT","csq":"16","crc":"ABCD1234","version":"2.0.2","bat":3491,"model":"002"}
+2025-07-27 23:35:38.333 | DEBUG    | mqtt.mqtt:on_message:118 - b'\xd1\x01\xee\x93\x06\x1f\xda\x9cg9\xda\nI\xd1\xa1\xc5\x04\x12\xd7\xa1r\xc5\x7f\x95\xd9\x88.\xfb\x9b\xd8\xa4\xcdh\x97\xf8\x14b[\x1f\x1c\xdf\x8ee\xc2\xc6W\xd2\xec\xcaQ-\xb2\x8a!\x17\x0b\xe7T\x80P\xc4\x8e\xa3p\xbaz\xc4\xe7;\x8aH\xa2 P\x87\xfb\x80\xfc(\xe5p\x83\x1f\x13\xe4x\xe8\xc8\xc9\x12Qv"\xbc2\xb3U\x8e\xd6\xe8\xc7S0"c\xaeP}\x14\xb3\xcfIM(:\x85\xd7X\x9aJe\x92\x1b\x06\\?\xb0\x1b}x,\xff\x06\xdd\xce\x05\xc1&Yu\x90\xabb\xba\x8fm/Z\xc3\x01\x9f\x02\xb3\x0c:\x01\xe8L\xc8[\x19\x1c*g\xfc\x00\xd42\xab\x82!S\xc8}"Q'
+2025-07-27 23:35:38.336 | DEBUG    | mqtt.mqtt:on_message:123 - {"type":"nb_maintain","timestamp":1753630536,"CCID":"898604B60322D0300881","T":24,"com":"NB-IOT","csq":"15","crc":"ABCD1234","version":"2.0.2","bat":3489,"model":"002"}
+2025-07-27 23:52:40.551 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 23:52:40.609 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-27 23:52:40.611 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-27 23:54:33.683 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-27 23:54:33.724 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-27 23:54:33.727 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-27 23:54:41.322 | DEBUG    | mqtt.mqtt:on_message:118 - b'\xd1\x01\xee\x93\x06\x1f\xda\x9cg9\xda\nI\xd1\xa1\xc5\x04\x12\xd7\xa1r\xc5\x7f\x95\xd9\x88.\xfb\x9b\xd8\xa4\xcd{\xe0*\x8d|\x063\xd0\xf6\x8fv\xb8h3\x8es\n\xb6X>\xc1F5\xac\x93K\x825w\x7f\x92Y[\x18\xbd\x03\xc0pa^~\xdf\xd7\x81~\x15/~\x05t|G\x9b$a\x1c9~\xe2\x05\x80\xc77\xd7:+d;\xa1\x19\xf2\x11\xbd)\x8cR\x08\x1e\xa0\xb6\xfcID~\x87\x02^\xd9j\xc8z\x90\x13\xa7\t\x1a\x0cc\xd9\xc3J;\xc1\x85;\xfes=!8i\xf1\x1d\x12,\x86\x95\xea\x0b\x92o\xebe\xb9\x15\x9d*\x90\x08\xe7\xd5\xf9\xachl\x16\x88\xbe\x14s\xa0\rRz'
+2025-07-27 23:54:41.339 | DEBUG    | mqtt.mqtt:on_message:123 - {"type":"nb_maintain","timestamp":1753631679,"CCID":"898604B60322D0300881","T":23,"com":"NB-IOT","csq":"20","crc":"ABCD1234","version":"2.0.2","bat":3499,"model":"002"}
+2025-07-28 00:01:57.276 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-28 00:01:57.327 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-28 00:01:57.331 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-28 00:02:14.414 | INFO     | mqtt.mqtt:on_message:89 - Received message on topic: /nengduojie/mousetrap/nb-001/860722074979434
+2025-07-28 00:02:14.429 | DEBUG    | mqtt.mqtt:on_message:124 - {"type":"nb_maintain","timestamp":1753632132,"CCID":"898604B60322D0300881","T":23,"com":"NB-IOT","csq":"17","crc":"ABCD1234","version":"2.0.2","bat":3492,"model":"002"}
+2025-07-28 00:02:14.432 | INFO     | mqtt.mqtt:on_message:131 - Decrypted payload: {"type":"nb_maintain","timestamp":1753632132,"CCID":"898604B60322D0300881","T":23,"com":"NB-IOT","csq":"17","crc":"ABCD1234","version":"2.0.2","bat":3492,"model":"002"}
+2025-07-28 00:02:14.439 | INFO     | mqtt.mqtt:on_message:205 - Message saved to database: <model.model.MQTTMessage object at 0x7fbe98932830>
+2025-07-28 00:02:34.299 | INFO     | mqtt.mqtt:on_message:89 - Received message on topic: /nengduojie/mousetrap/nb-001/860722074979434
+2025-07-28 00:02:34.303 | DEBUG    | mqtt.mqtt:on_message:124 - {"type":"nb_maintain","timestamp":1753632152,"CCID":"898604B60322D0300881","T":24,"com":"NB-IOT","csq":"17","crc":"ABCD1234","version":"2.0.2","bat":3502,"model":"002"}
+2025-07-28 00:02:34.305 | INFO     | mqtt.mqtt:on_message:131 - Decrypted payload: {"type":"nb_maintain","timestamp":1753632152,"CCID":"898604B60322D0300881","T":24,"com":"NB-IOT","csq":"17","crc":"ABCD1234","version":"2.0.2","bat":3502,"model":"002"}
+2025-07-28 00:02:34.310 | INFO     | mqtt.mqtt:on_message:205 - Message saved to database: <model.model.MQTTMessage object at 0x7fbe98931de0>
+2025-07-28 00:10:26.909 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-28 00:10:26.954 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-28 00:10:26.956 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-28 00:10:45.203 | INFO     | mqtt.mqtt:on_message:90 - Received message on topic: /nengduojie/mousetrap/nb-001/860722074979434
+2025-07-28 00:10:45.218 | INFO     | mqtt.mqtt:on_message:130 - Encrypted payload: b"\xd1\x01\xee\x93\x06\x1f\xda\x9cg9\xda\nI\xd1\xa1\xc5\x04\x12\xd7\xa1r\xc5\x7f\x95\xd9\x88.\xfb\x9b\xd8\xa4\xcd\x0cC\x04*{\xe4\x1d*\xc62\x88\\\x06\x7f\xf0\xf8\xdf\xb1\x98\xd8\xc8\xa5.r-fz\x98@V\x84\xcd\xfa\x0c\xe9$\xac;\x9b\x9cR:`Z\xc0\xea\xd6\x8d_6mls\xd0\xe36\x1c&\x88\x9bI?<\x02wl\x0e\xee?~.r\xb0q\t\x83\xe9\x93\xd4Xv\xcal`\xfd>\xb9'4\x0cc\x89\xf7\xb6Ga\xe4\x14\xc5|\xa9\xf9[Sx\x84\t\xc1i\xba\x15W(\xeb\x81\xf1OV\xfb\xb8\xe7Z\x98\x9f\xb3\xb3g\x80\xb0w\x0eb\x93\t|\xc4Y\xe4\xa8gAC\xaf\xce". Decrypted payload: {"type":"nb_maintain","timestamp":1753632643,"CCID":"898604B60322D0300881","T":24,"com":"NB-IOT","csq":"20","crc":"ABCD1234","version":"2.0.2","bat":3499,"model":"002"}
+2025-07-28 00:10:45.226 | INFO     | mqtt.mqtt:on_message:204 - Message saved to database: <model.model.MQTTMessage object at 0x7ff4b8932830>
+2025-07-28 00:11:05.169 | INFO     | mqtt.mqtt:on_message:90 - Received message on topic: /nengduojie/mousetrap/nb-001/860722074979434
+2025-07-28 00:11:05.172 | INFO     | mqtt.mqtt:on_message:130 - Encrypted payload: b'\xd1\x01\xee\x93\x06\x1f\xda\x9cg9\xda\nI\xd1\xa1\xc5\x04\x12\xd7\xa1r\xc5\x7f\x95\xd9\x88.\xfb\x9b\xd8\xa4\xcd\x9a=\xc1\xa6\xab\xd2\x08\xd3\x8d\xfd\x08\xe2\x16^O\xd3\xe6\xf9\xbf\xdb\\@\xf7k\xb5*\xf6\x1a\x93\xfe\xf5\xd0\xeb\x0e+~\x9f\xba\x8e\x05z\xf9%\xe6\xfc\xc1\xae.\'\xa9\xeb}\xd4\xd8\xf2X+\x11)\x0f\x1eQ\x9e\xb8\t\xb2^\x1d-\x88\x81\xbe"4\xe3ni\x1b\xe2\xf6\xc1\x01\xa9\xa9\xf3\xa0$H>q\xce\x13\xfb{"\x8d\xb1\xc5\xf5\x08u\xcd[\xeapc\x9f,\xc7cdR\x83\xc4\x8f5\x01}\xd3X\xddq[q\x17\xbe\x17\x82b\x95<\x08\x1e\x88\xd3\x9a\xee~Q\x19.\xb9\xff\x1d'. Decrypted payload: {"type":"nb_maintain","timestamp":1753632663,"CCID":"898604B60322D0300881","T":24,"com":"NB-IOT","csq":"18","crc":"ABCD1234","version":"2.0.2","bat":3484,"model":"002"}
+2025-07-28 00:11:05.180 | INFO     | mqtt.mqtt:on_message:204 - Message saved to database: <model.model.MQTTMessage object at 0x7ff4b8931de0>
+2025-07-28 00:38:02.085 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-28 00:38:02.143 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-28 00:38:02.145 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-28 00:38:18.863 | INFO     | mqtt.mqtt:on_message:90 - Message arriving on topic: /nengduojie/mousetrap/nb-001/860722074979434
+2025-07-28 00:38:18.879 | INFO     | mqtt.mqtt:on_message:130 - Encrypted payload: b'\xd1\x01\xee\x93\x06\x1f\xda\x9cg9\xda\nI\xd1\xa1\xc5\x04\x12\xd7\xa1r\xc5\x7f\x95\xd9\x88.\xfb\x9b\xd8\xa4\xcd\xcc?\x96)]\x9a\xd5\xa6\x9c\x0c\x98#\xe6t\x0e\x8b\xf7\x80\xf3&\r\xa9CTCA\xfd\xcdU\xceDJz\xf37\xff\xbc\xd3\x8a,N\xc3\xc4\xad\xa0\xb6P\xc5\x11}\x82\xeb\xc4\xc8\x9d\xf9\xee\x85e{-&6\x08E\xa8\xc0\xfd\xb4\x97\xbbD\xbe\xb6\xa7_\xa8\x17B\x19\xa3\xa3\xec\xf7$\x94\x18\x98\x18V6F/>\x86\xb6\xcc!f\xfcwI\xa7\x0b\xa8L\x15\xa3\xe3!i\xb4]m\x07\xc0\x11\xb3\xdf\xb4/\x8f\xaes\x86\x06B\xb7#\x84\x0e\xa4i\x8a\xb3X\xfc\xbb:VOm\x00g'
+2025-07-28 00:38:18.881 | INFO     | mqtt.mqtt:on_message:132 - Decrypted payload: {"type":"nb_maintain","timestamp":1753634296,"CCID":"898604B60322D0300881","T":23,"com":"NB-IOT","csq":"15","crc":"ABCD1234","version":"2.0.2","bat":3517,"model":"002"}
+2025-07-28 00:38:18.888 | INFO     | mqtt.mqtt:on_message:206 - Message saved to database: <model.model.MQTTMessage object at 0x7faaa092e830>
+2025-07-28 00:38:38.055 | INFO     | mqtt.mqtt:on_message:90 - Message arriving on topic: /nengduojie/mousetrap/nb-001/860722074979434
+2025-07-28 00:38:38.058 | INFO     | mqtt.mqtt:on_message:130 - Encrypted payload: b'\xd1\x01\xee\x93\x06\x1f\xda\x9cg9\xda\nI\xd1\xa1\xc5\x04\x12\xd7\xa1r\xc5\x7f\x95\xd9\x88.\xfb\x9b\xd8\xa4\xcd\xd0D\xa8\x1c\xd8j)=\xa7\x89\xbc\x15\xd2b\xcf;\xab\xb74x\xef\x82Q\xf3\xf8\x86\x85*\x0bQ\xe2\xa7cs\xba\x1d\x95\xd9\x13\x98-H:\xbd\x92\xd8\xee\x12\xd8\xdf\x89\xec\'\xd0\x1d\x1a\x95\x8a\xf5ye\x9c\x08g\x1c\xb6c\xae\xe8\xb3S\xc9&{\xf3\n\xcb;\xd3\xd3\xc1\x00\x03)"\xb9\x90\xa7\xa9\xf4\xc7\x90m\x1e\xfc\xc0\xf5{\xc5\xbf3\x14]Q\xf2\xd8\xa5R(k\xdd`\xbe\xce\xd6\x93\xae\xd9\xde\x89u\xaab=P\x8c$\x8f\x87\xfc\x19\xbdP\xa2\xbe\xaa\xa8\xbf\x1d\xd6c\x10\xa9B'
+2025-07-28 00:38:38.062 | INFO     | mqtt.mqtt:on_message:132 - Decrypted payload: {"type":"nb_maintain","timestamp":1753634316,"CCID":"898604B60322D0300881","T":24,"com":"NB-IOT","csq":"17","crc":"ABCD1234","version":"2.0.2","bat":3497,"model":"002"}
+2025-07-28 00:38:38.069 | INFO     | mqtt.mqtt:on_message:206 - Message saved to database: <model.model.MQTTMessage object at 0x7faaa092dde0>
+2025-07-28 00:40:22.436 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-28 00:40:22.493 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-28 00:40:22.495 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-28 00:40:39.906 | INFO     | mqtt.mqtt:on_message:90 - Message arriving on topic: /nengduojie/mousetrap/nb-001/860722074979434
+2025-07-28 00:40:39.919 | INFO     | mqtt.mqtt:on_message:132 - Decrypted payload: {"type":"nb_maintain","timestamp":1753634437,"CCID":"898604B60322D0300881","T":23,"com":"NB-IOT","csq":"16","crc":"ABCD1234","version":"2.0.2","bat":3489,"model":"002"}
+2025-07-28 00:40:39.927 | INFO     | mqtt.mqtt:on_message:206 - Message saved to database: <model.model.MQTTMessage object at 0x7f9886056d10>
+2025-07-28 00:41:00.164 | INFO     | mqtt.mqtt:on_message:90 - Message arriving on topic: /nengduojie/mousetrap/nb-001/860722074979434
+2025-07-28 00:41:00.169 | INFO     | mqtt.mqtt:on_message:132 - Decrypted payload: {"type":"nb_maintain","timestamp":1753634458,"CCID":"898604B60322D0300881","T":24,"com":"NB-IOT","csq":"16","crc":"ABCD1234","version":"2.0.2","bat":3475,"model":"002"}
+2025-07-28 00:41:00.173 | INFO     | mqtt.mqtt:on_message:206 - Message saved to database: <model.model.MQTTMessage object at 0x7f9886056530>
+2025-07-28 00:43:14.993 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-28 00:43:15.038 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-28 00:43:15.040 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-28 00:43:33.159 | INFO     | mqtt.mqtt:on_message:206 - Message on topic /nengduojie/mousetrap/nb-001/860722074979434 received and saved to database: {'type': 'nb_maintain', 'timestamp': 1753634611, 'CCID': '898604B60322D0300881', 'T': 23, 'com': 'NB-IOT', 'csq': '19', 'crc': 'ABCD1234', 'version': '2.0.2', 'bat': 3502, 'model': '002'}
+2025-07-28 00:43:52.215 | INFO     | mqtt.mqtt:on_message:206 - Message on topic /nengduojie/mousetrap/nb-001/860722074979434 received and saved to database: {'type': 'nb_maintain', 'timestamp': 1753634630, 'CCID': '898604B60322D0300881', 'T': 23, 'com': 'NB-IOT', 'csq': '17', 'crc': 'ABCD1234', 'version': '2.0.2', 'bat': 3474, 'model': '002'}
+2025-07-28 00:53:50.222 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-28 00:53:50.265 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-28 00:53:50.267 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-28 00:54:05.883 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'nb_maintain', 'timestamp': 1753635244, 'CCID': '898604B60322D0300881', 'T': 23, 'com': 'NB-IOT', 'csq': '16', 'crc': 'ABCD1234', 'version': '2.0.2', 'bat': 3508, 'model': '002'}
+2025-07-28 00:54:28.088 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'nb_maintain', 'timestamp': 1753635265, 'CCID': '898604B60322D0300881', 'T': 23, 'com': 'NB-IOT', 'csq': '17', 'crc': 'ABCD1234', 'version': '2.0.2', 'bat': 3471, 'model': '002'}
