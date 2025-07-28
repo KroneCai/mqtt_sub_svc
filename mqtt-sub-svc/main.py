@@ -7,7 +7,7 @@ def run():
     mqtt_sub.forever()
     
 def main():
-    logger.add("mqtt.log", rotation="10 MB")
+    logger.add("~/mqtt.log", rotation="10 MB")
     subs = Thread(target = run, daemon=True, name="MQTT_Subscriber")
     subs.start()
     subs.join()
