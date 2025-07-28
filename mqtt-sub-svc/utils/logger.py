@@ -1,6 +1,7 @@
 from db.db import Database
 from model.model import MQTTLog 
 from datetime import datetime
+from loguru import logger
 
 class Logger:
     def __init__(self):

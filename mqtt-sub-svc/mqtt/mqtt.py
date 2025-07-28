@@ -90,10 +90,10 @@ class MQTT:
         '''Step 2: 解析topic
         终端上传数据的主题分为4级  /厂家标识/产品类别/设备硬件型号/IMEI
         比如 /nengduojie/mousetrap/nb-001/869373063900360
-        厂家标识： nengduojie；
+        厂家标识： nengduojie;
         产品类别:  mousetrap-捕鼠器；
-        设备类别： node：终端  gw- lora：网关  nb： NB终端  001：该类别的硬件版本型；
-        设备ID： 869373063900360
+        设备类别： node: 终端  gw- lora: 网关  nb: NB终端  001:该类别的硬件版本型;
+        设备ID: 869373063900360
         '''
         topic_factory = ""
         topic_product = ""
@@ -114,8 +114,8 @@ class MQTT:
         # print(topic_factory, topic_product, topic_device_type, topic_device_id)
 
         '''Step 3: 对接收到的payload进行解密
-        根据厂家设计，所有的数据进行了AES-128数据加密，加密类型为CBC，采用Zero Padding填充。
-        密钥和偏移量为：key= 'AQRTYUOIFSRBFCEG'，iv= 'AQRTYUOIFSRBFCEG'。
+        根据厂家设计,所有的数据都进行了AES-128数据加密,加密类型为CBC,采用Zero Padding填充。
+        密钥和偏移量为: key= 'AQRTYUOIFSRBFCEG', iv= 'AQRTYUOIFSRBFCEG'。
         '''
         payload = ""
         try:
@@ -196,11 +196,15 @@ class MQTT:
                 msg_cnt_R = msg_cnt_R,
                 msg_T_state = msg_T_state,
                 msg_time = msg_time,)
-            self.session.add(msg) # 添加数据
-            self.session.commit() # 提交事务，保存到数据库
-            
-            logger.info(f"Message from {topic} saved: {payload}")
-            self.logger.add_log("INFO", f"Message from {topic} saved: {payload}")
+            count = self.session.execute("SELECT count(1) as count FROM tbl_mqtt_message where t_device_id = :device_id and msg_type = :msg_type and msg_ts > :msg_ts - interval '30 seconds'", {"device_id": topic_device_id, "msg_type": msg_type, "msg_ts": datetime.fromtimestamp(msg_ts)}).scalar()
+            if count == 0:
+                self.session.add(msg) # 添加数据
+                self.session.commit() # 提交事务，保存到数据库
+                logger.info(f"Message from {topic} is saved.")
+                self.logger.add_log("INFO", f"Message from {topic} is saved.")
+            else:
+                logger.info(f"Message from {topic} is duplicated, not saved.")
+                self.logger.add_log("INFO", f"Message from {topic} is duplicated, not saved.")
         except Exception as e:
             logger.error(f'Failed to parse and save payload: {e}')
             self.logger.add_log("ERROR", f"Failed to parse and save payload: {e}")

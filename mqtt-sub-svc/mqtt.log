@@ -358,3 +358,93 @@ HINT:  You will need to rewrite or cast the expression.
 2025-07-28 00:53:50.267 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
 2025-07-28 00:54:05.883 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'nb_maintain', 'timestamp': 1753635244, 'CCID': '898604B60322D0300881', 'T': 23, 'com': 'NB-IOT', 'csq': '16', 'crc': 'ABCD1234', 'version': '2.0.2', 'bat': 3508, 'model': '002'}
 2025-07-28 00:54:28.088 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'nb_maintain', 'timestamp': 1753635265, 'CCID': '898604B60322D0300881', 'T': 23, 'com': 'NB-IOT', 'csq': '17', 'crc': 'ABCD1234', 'version': '2.0.2', 'bat': 3471, 'model': '002'}
+2025-07-28 07:00:23.724 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'triggle_cnt', 'cnt_L': 0, 'cnt_R': 0, 'timestamp': 1753657222, 'bat': 3536, 'T': 27, 'csq': '17'}
+2025-07-28 07:00:25.454 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/868366073634889 saved: {'type': 'triggle_cnt', 'cnt_L': 0, 'cnt_R': 0, 'timestamp': 1753657223, 'bat': 3473, 'T': 24, 'csq': '13'}
+2025-07-28 07:00:42.792 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'triggle_cnt', 'cnt_L': 0, 'cnt_R': 0, 'timestamp': 1753657240, 'bat': 3510, 'T': 27, 'csq': '16'}
+2025-07-28 07:00:46.565 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/868366073634889 saved: {'type': 'triggle_cnt', 'cnt_L': 0, 'cnt_R': 0, 'timestamp': 1753657244, 'bat': 3466, 'T': 24, 'csq': '15'}
+2025-07-28 23:01:07.445 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'nb_maintain', 'timestamp': 1753714865, 'CCID': '898604B60322D0300881', 'T': 25, 'com': 'NB-IOT', 'csq': '13', 'crc': 'ABCD1234', 'version': '2.0.2', 'bat': 3525, 'model': '002'}
+2025-07-28 23:01:26.448 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'nb_maintain', 'timestamp': 1753714885, 'CCID': '898604B60322D0300881', 'T': 25, 'com': 'NB-IOT', 'csq': '18', 'crc': 'ABCD1234', 'version': '2.0.2', 'bat': 3479, 'model': '002'}
+2025-07-28 23:01:45.512 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'nb_maintain', 'timestamp': 1753714904, 'CCID': '898604B60322D0300881', 'T': 25, 'com': 'NB-IOT', 'csq': '14', 'crc': 'ABCD1234', 'version': '2.0.2', 'bat': 3479, 'model': '002'}
+2025-07-28 23:02:17.587 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'first_triggle', 'timestamp': 1753714935, 'side': 3, 'triggle_time': 1753714924, 'bat': 3479, 'T': 25, 'csq': '15'}
+2025-07-28 23:02:36.635 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'first_triggle', 'timestamp': 1753714955, 'side': 3, 'triggle_time': 1753714924, 'bat': 3498, 'T': 25, 'csq': '12'}
+2025-07-28 23:12:31.437 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'nb_maintain', 'timestamp': 1753715549, 'CCID': '898604B60322D0300881', 'T': 24, 'com': 'NB-IOT', 'csq': '15', 'crc': 'ABCD1234', 'version': '2.0.2', 'bat': 3499, 'model': '002'}
+2025-07-28 23:12:50.715 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'nb_maintain', 'timestamp': 1753715568, 'CCID': '898604B60322D0300881', 'T': 24, 'com': 'NB-IOT', 'csq': '18', 'crc': 'ABCD1234', 'version': '2.0.2', 'bat': 3491, 'model': '002'}
+2025-07-28 23:14:32.795 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'first_triggle', 'timestamp': 1753715671, 'side': 3, 'triggle_time': 1753715607, 'bat': 3487, 'T': 24, 'csq': '15'}
+2025-07-28 23:14:51.541 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'first_triggle', 'timestamp': 1753715689, 'side': 3, 'triggle_time': 1753715607, 'bat': 3484, 'T': 24, 'csq': '17'}
+2025-07-28 23:20:34.610 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'nb_maintain', 'timestamp': 1753716032, 'CCID': '898604B60322D0300881', 'T': 24, 'com': 'NB-IOT', 'csq': '18', 'crc': 'ABCD1234', 'version': '2.0.2', 'bat': 3511, 'model': '002'}
+2025-07-28 23:20:55.792 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'nb_maintain', 'timestamp': 1753716053, 'CCID': '898604B60322D0300881', 'T': 24, 'com': 'NB-IOT', 'csq': '12', 'crc': 'ABCD1234', 'version': '2.0.2', 'bat': 3475, 'model': '002'}
+2025-07-28 23:24:35.246 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'first_triggle', 'timestamp': 1753716273, 'side': 3, 'triggle_time': 1753716262, 'bat': 3509, 'T': 25, 'csq': '14'}
+2025-07-28 23:24:54.459 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'first_triggle', 'timestamp': 1753716292, 'side': 3, 'triggle_time': 1753716262, 'bat': 3480, 'T': 25, 'csq': '18'}
+2025-07-28 23:25:32.008 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'nb_maintain', 'timestamp': 1753716330, 'CCID': '898604B60322D0300881', 'T': 25, 'com': 'NB-IOT', 'csq': '17', 'crc': 'ABCD1234', 'version': '2.0.2', 'bat': 3493, 'model': '002'}
+2025-07-28 23:25:51.497 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'nb_maintain', 'timestamp': 1753716350, 'CCID': '898604B60322D0300881', 'T': 25, 'com': 'NB-IOT', 'csq': '11', 'crc': 'ABCD1234', 'version': '2.0.2', 'bat': 3475, 'model': '002'}
+2025-07-28 23:26:11.181 | INFO     | mqtt.mqtt:on_message:202 - Message from /nengduojie/mousetrap/nb-001/860722074979434 saved: {'type': 'nb_maintain', 'timestamp': 1753716369, 'CCID': '898604B60322D0300881', 'T': 25, 'com': 'NB-IOT', 'csq': '15', 'crc': 'ABCD1234', 'version': '2.0.2', 'bat': 3469, 'model': '002'}
+2025-07-29 00:44:00.633 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-29 00:44:00.683 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-29 00:44:00.686 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-29 00:45:46.655 | ERROR    | mqtt.mqtt:on_message:209 - Failed to parse and save payload: (psycopg2.errors.UndefinedColumn) column "device_id" does not exist
+LINE 1: ...ECT count(1) as count FROM tbl_mqtt_message where device_id ...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "tbl_mqtt_message.t_device_id".
+
+[SQL: SELECT count(1) as count FROM tbl_mqtt_message where device_id = %(device_id)s and msg_type = %(msg_type)s and msg_ts < %(msg_ts)s-INTERVAL '50 seconds']
+[parameters: {'device_id': '860722074979434', 'msg_type': 'nb_maintain', 'msg_ts': 1753721145}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+2025-07-29 00:46:12.587 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-29 00:46:12.633 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-29 00:46:12.635 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-29 00:46:25.250 | ERROR    | mqtt.mqtt:on_message:209 - Failed to parse and save payload: (psycopg2.errors.UndefinedFunction) operator does not exist: integer - interval
+LINE 1: ...d msg_type = 'nb_maintain' and msg_ts < 1753721183-INTERVAL ...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+[SQL: SELECT count(1) as count FROM tbl_mqtt_message where t_device_id = %(device_id)s and msg_type = %(msg_type)s and msg_ts < %(msg_ts)s-INTERVAL '50 seconds']
+[parameters: {'device_id': '860722074979434', 'msg_type': 'nb_maintain', 'msg_ts': 1753721183}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+2025-07-29 00:47:26.240 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-29 00:47:26.282 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-29 00:47:26.284 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-29 00:48:15.985 | ERROR    | mqtt.mqtt:on_message:209 - Failed to parse and save payload: (psycopg2.errors.UndefinedFunction) operator does not exist: timestamp without time zone < integer
+LINE 1: ...979434' and msg_type = 'first_triggle' and msg_ts < 17537212...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+[SQL: SELECT count(1) as count FROM tbl_mqtt_message where t_device_id = %(device_id)s and msg_type = %(msg_type)s and msg_ts < %(msg_ts)s - 30]
+[parameters: {'device_id': '860722074979434', 'msg_type': 'first_triggle', 'msg_ts': 1753721294}]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+2025-07-29 00:48:35.966 | ERROR    | mqtt.mqtt:on_message:209 - Failed to parse and save payload: (psycopg2.errors.InFailedSqlTransaction) current transaction is aborted, commands ignored until end of transaction block
+
+[SQL: SELECT count(1) as count FROM tbl_mqtt_message where t_device_id = %(device_id)s and msg_type = %(msg_type)s and msg_ts < %(msg_ts)s - 30]
+[parameters: {'device_id': '860722074979434', 'msg_type': 'first_triggle', 'msg_ts': 1753721313}]
+(Background on this error at: https://sqlalche.me/e/14/2j85)
+2025-07-29 00:51:34.151 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-29 00:51:34.201 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-29 00:51:34.204 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-29 00:51:51.602 | INFO     | mqtt.mqtt:on_message:206 - Message from /nengduojie/mousetrap/nb-001/860722074979434 is duplicated, not saved.
+2025-07-29 00:52:11.650 | INFO     | mqtt.mqtt:on_message:206 - Message from /nengduojie/mousetrap/nb-001/860722074979434 is duplicated, not saved.
+2025-07-29 00:52:30.002 | INFO     | mqtt.mqtt:on_message:206 - Message from /nengduojie/mousetrap/nb-001/860722074979434 is duplicated, not saved.
+2025-07-29 00:53:09.060 | INFO     | mqtt.mqtt:on_message:206 - Message from /nengduojie/mousetrap/nb-001/860722074979434 is duplicated, not saved.
+2025-07-29 00:53:28.945 | INFO     | mqtt.mqtt:on_message:206 - Message from /nengduojie/mousetrap/nb-001/860722074979434 is duplicated, not saved.
+2025-07-29 00:54:34.229 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-29 00:54:34.279 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-29 00:54:34.282 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-29 00:54:49.366 | DEBUG    | mqtt.mqtt:on_message:200 - count: 22
+2025-07-29 00:54:49.366 | INFO     | mqtt.mqtt:on_message:207 - Message from /nengduojie/mousetrap/nb-001/860722074979434 is duplicated, not saved.
+2025-07-29 00:55:08.051 | DEBUG    | mqtt.mqtt:on_message:200 - count: 22
+2025-07-29 00:55:08.051 | INFO     | mqtt.mqtt:on_message:207 - Message from /nengduojie/mousetrap/nb-001/860722074979434 is duplicated, not saved.
+2025-07-29 00:55:27.314 | DEBUG    | mqtt.mqtt:on_message:200 - count: 22
+2025-07-29 00:55:27.314 | INFO     | mqtt.mqtt:on_message:207 - Message from /nengduojie/mousetrap/nb-001/860722074979434 is duplicated, not saved.
+2025-07-29 00:55:48.118 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
+2025-07-29 00:55:48.163 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
+2025-07-29 00:55:48.166 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
+2025-07-29 00:56:04.301 | DEBUG    | mqtt.mqtt:on_message:200 - count: 0
+2025-07-29 00:56:04.307 | INFO     | mqtt.mqtt:on_message:204 - Message from /nengduojie/mousetrap/nb-001/860722074979434 is not duplicated, saved.
+2025-07-29 00:56:23.646 | DEBUG    | mqtt.mqtt:on_message:200 - count: 1
+2025-07-29 00:56:23.647 | INFO     | mqtt.mqtt:on_message:207 - Message from /nengduojie/mousetrap/nb-001/860722074979434 is duplicated, not saved.
+2025-07-29 00:58:26.512 | DEBUG    | mqtt.mqtt:on_message:200 - count: 0
+2025-07-29 00:58:26.515 | INFO     | mqtt.mqtt:on_message:204 - Message from /nengduojie/mousetrap/nb-001/860722074979434 is not duplicated, saved.
+2025-07-29 00:58:45.675 | DEBUG    | mqtt.mqtt:on_message:200 - count: 1
+2025-07-29 00:58:45.676 | INFO     | mqtt.mqtt:on_message:207 - Message from /nengduojie/mousetrap/nb-001/860722074979434 is duplicated, not saved.
+2025-07-29 01:00:12.744 | DEBUG    | mqtt.mqtt:on_message:200 - count: 0
+2025-07-29 01:00:12.747 | INFO     | mqtt.mqtt:on_message:204 - Message from /nengduojie/mousetrap/nb-001/860722074979434 is not duplicated, saved.
+2025-07-29 01:00:31.743 | DEBUG    | mqtt.mqtt:on_message:200 - count: 1
+2025-07-29 01:00:31.743 | INFO     | mqtt.mqtt:on_message:207 - Message from /nengduojie/mousetrap/nb-001/860722074979434 is duplicated, not saved.
