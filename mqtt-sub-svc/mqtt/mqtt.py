@@ -8,6 +8,7 @@ import json
 from config import settings
 import paho.mqtt.client as mqtt
 from db.db import Database
+from sqlalchemy import text
 from model.model import MQTTLog, MQTTMessage
 from utils.AESCiper import AESCiper
 from utils.logger import Logger
@@ -196,7 +197,7 @@ class MQTT:
                 msg_cnt_R = msg_cnt_R,
                 msg_T_state = msg_T_state,
                 msg_time = msg_time,)
-            count = self.session.execute("SELECT count(1) as count FROM tbl_mqtt_message where t_device_id = :device_id and msg_type = :msg_type and msg_ts > :msg_ts - interval '30 seconds'", {"device_id": topic_device_id, "msg_type": msg_type, "msg_ts": datetime.fromtimestamp(msg_ts)}).scalar()
+            count = self.session.execute(text("SELECT count(1) as count FROM tbl_mqtt_message where t_device_id = :device_id and msg_type = :msg_type and msg_ts > :msg_ts - interval '30 seconds'"), {"device_id": topic_device_id, "msg_type": msg_type, "msg_ts": datetime.fromtimestamp(msg_ts)}).scalar()
             if count == 0:
                 self.session.add(msg) # 添加数据
                 self.session.commit() # 提交事务，保存到数据库
