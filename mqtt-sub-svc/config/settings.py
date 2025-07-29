@@ -13,3 +13,6 @@ MQTT_PASSWORD = "rent@kil2025"
 # AES Encryption
 key = "AQRTYUOIFSRBFCEG"
 iv = "AQRTYUOIFSRBFCEG"
+
+# System
+LOG_PATH = "/var/log/mqtt-sub-svc/mqtt-sub-svc.log"
