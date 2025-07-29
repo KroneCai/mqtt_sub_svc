@@ -1,6 +1,0 @@
-2025-07-29 01:32:10.001 | INFO     | mqtt.mqtt:__init__:34 - Initializing MQTT client[id=server_test01], [broker=47.111.93.153:1883]
-2025-07-29 01:32:10.051 | INFO     | mqtt.mqtt:on_connect:69 - MQTT broker connected.
-2025-07-29 01:32:10.054 | INFO     | mqtt.mqtt:on_connect:73 - Subscribed to topic: /nengduojie/#
-2025-07-29 01:32:26.759 | INFO     | mqtt.mqtt:on_message:203 - Message from /nengduojie/mousetrap/nb-001/860722074979434 is saved.
-2025-07-29 01:32:46.010 | INFO     | mqtt.mqtt:on_message:206 - Message from /nengduojie/mousetrap/nb-001/860722074979434 is duplicated, not saved.
-2025-07-29 01:33:05.325 | INFO     | mqtt.mqtt:on_message:203 - Message from /nengduojie/mousetrap/nb-001/860722074979434 is saved.
