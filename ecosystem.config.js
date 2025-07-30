@@ -8,4 +8,5 @@ module.exports = {
     cwd: "/Users/kronecai/project/mqtt_sub_svc",                   // 工作目录
     autorestart: true,                         // 自动重启
     }]
+    
 };
