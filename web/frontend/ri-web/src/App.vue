@@ -1,29 +1,65 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
-import HelloWorld from './components/HelloWorld.vue'
+import Header from './components/Header.vue'
+import SideMenu from './components/SideMenu.vue'
 </script>
 
 <template>
-  <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-
-      <nav>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
-      </nav>
+  <div class="container">
+    <header>
+        <Header />
+    </header>
+    <div class="main-content">
+        <nav class="menu" id="mainMenu">
+          <SideMenu />
+        </nav>
+        
+        <main class="content">
+            <RouterView />
+        </main>
     </div>
-  </header>
-
-  <RouterView />
+  </div>
 </template>
 
 <style scoped>
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* 顶部header样式 */
 header {
-  line-height: 1.5;
-  max-height: 100vh;
+  width: 100%;
+  color: white;
+  padding: 0.5rem 0;
+  text-align: center;
+}
+
+/* 主要内容区域 */
+.main-content {
+  width: 100%;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+}
+
+/* 左侧菜单区域 */
+.menu {
+  width: 220px;
+  background-color: #ecf0f1;
+  color: #333333;
+  padding: 0 0.5rem;
+  overflow-y: auto;
+  transition: all 0.3s ease;
+}
+
+/* 右侧内容区域 */
+.content {
+  width: 100%;
+  flex: 1;
+  padding: 2rem;
+  overflow-y: auto;
 }
 
 .logo {
@@ -33,9 +69,8 @@ header {
 
 nav {
   width: 100%;
-  font-size: 12px;
+  font-size: 0.8rem;
   text-align: center;
-  margin-top: 2rem;
 }
 
 nav a.router-link-exact-active {
@@ -57,29 +92,8 @@ nav a:first-of-type {
 }
 
 @media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
-  }
-
-  .logo {
-    margin: 0 2rem 0 0;
-  }
-
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
-
-  nav {
-    text-align: left;
-    margin-left: -1rem;
-    font-size: 1rem;
-
-    padding: 1rem 0;
-    margin-top: 1rem;
+  .container {
+    min-width: 1024px;
   }
 }
 </style>
