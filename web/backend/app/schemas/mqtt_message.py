@@ -1,7 +1,7 @@
 from pydantic import BaseModel, ConfigDict
 from datetime import datetime
 
-class MQTTMessage(BaseModel):
+class MQTTMessageSchema(BaseModel):
     ts: datetime
     topic: str
     t_factory: str

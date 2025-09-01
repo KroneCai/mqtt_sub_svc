@@ -3,6 +3,14 @@ venv/
 .venv/
 env/
 ENV/
+.env
+.env.local
+.env.prod
+.env.staging
+.env.test
+.env.dev
+*.secret
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

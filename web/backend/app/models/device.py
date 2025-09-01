@@ -1,7 +1,7 @@
 from sqlalchemy import Column, TEXT, INT, TIMESTAMP, LargeBinary, VARCHAR, FLOAT
 from db.base import Base
 
-class Device(Base):
+class DeviceModel(Base):
     __tablename__ = 'tbl_device'
     device_id = Column('device_id', VARCHAR(32), primary_key=True)
     device_type = Column('device_type', VARCHAR(32))

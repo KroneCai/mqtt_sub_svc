@@ -8,7 +8,7 @@ from db.base import Base
 
 # Base = declarative_base()
 
-class Reference(Base):
+class ReferenceModel(Base):
     __tablename__ = 'tbl_ref'
     id = Column('id', INT, primary_key=True)
     namespace = Column('namespace', VARCHAR(128))

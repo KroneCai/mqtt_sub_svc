@@ -1,7 +1,7 @@
 from pydantic import BaseModel, ConfigDict, EmailStr
 from datetime import datetime
 
-class Tenant(BaseModel):
+class TenantSchema(BaseModel):
     code: str
     name: str
     description: str

@@ -1,5 +1,5 @@
 from fastapi import APIRouter, Depends, HTTPException
-from schemas.device import Device as DeviceSchema
+from schemas.device import DeviceSchema
 from crud.device import get_devices, get_device_by_device_id, create_device, update_device, delete_device
 from sqlalchemy.orm import Session
 from db.db import Database

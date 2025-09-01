@@ -1,7 +1,7 @@
 from sqlalchemy import Column, TEXT, INT, TIMESTAMP, LargeBinary, VARCHAR
 from db.base import Base
 
-class Tenant(Base):
+class TenantModel(Base):
     __tablename__ = 'tbl_tenant'
     code = Column('code', VARCHAR(32), primary_key=True)
     name = Column('name', VARCHAR(32))

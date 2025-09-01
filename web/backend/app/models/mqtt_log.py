@@ -5,7 +5,7 @@ from db.base import Base
 
 # Base = declarative_base()
 
-class MQTTLog(Base):
+class MQTTLogModel(Base):
     __tablename__ = 'tbl_mqtt_log'
     ts = Column('ts', TIMESTAMP, primary_key=True)
     level = Column('level', VARCHAR(10))

@@ -1,14 +1,15 @@
 from sqlalchemy import create_engine,text
 from sqlalchemy.orm import sessionmaker, Session, scoped_session
-import core.config as config
+from core.config import settings
 from loguru import logger
 from db.base import Base
 # 在调用 create_all() 的脚本中显式导入所有模型文件（即使未直接使用）
-from models.tenant import Tenant
-from models.device import Device
-from models.mqtt_message import MQTTMessage
-from models.ref import Reference
-from models.mqtt_log import MQTTLog
+from models.tenant import TenantModel
+from models.user import UserModel
+from models.device import DeviceModel
+from models.mqtt_message import MQTTMessageModel
+from models.ref import ReferenceModel
+from models.mqtt_log import MQTTLogModel
 
 class Database():
     
@@ -19,7 +20,7 @@ class Database():
     def get_db_connection(self):
         if self.connection_is_active == False:
             try:
-                self.engine = create_engine(config.SQLALCHEMY_DATABASE_URI)
+                self.engine = create_engine(settings.SQLALCHEMY_DATABASE_URI)
                 Base.metadata.create_all(self.engine)
                 return self.engine
             except Exception as e:

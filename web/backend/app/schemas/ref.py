@@ -1,7 +1,7 @@
 from pydantic import BaseModel, ConfigDict
 from datetime import datetime
 
-class Reference(BaseModel):
+class ReferenceSchema(BaseModel):
     id: int
     namespace: str
     description: str

@@ -1,8 +1,8 @@
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy import Null
-from schemas.tenant import Tenant as TenantSchema
+from schemas.tenant import TenantSchema
 from crud.tenant import get_tenant_by_code, create_tenant,delete_tenant,update_tenant, get_tenants
-from models.tenant import Tenant as TenantModel
+from models.tenant import TenantModel
 from sqlalchemy.orm import Session
 from db.db import Database
 from loguru import logger
